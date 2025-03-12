@@ -7,7 +7,7 @@
     } 
     /* Fundo gradiente */ 
     body { 
-        background: linear-gradient(to right, #ff7eb3, #61dfff, #5b53ff); color: white; 
+        background: linear-gradient(to right, #ff7eb3, #8a84ff, #5b53ff); color: white; 
         text-align: center; 
         padding: 20px; 
     } 
